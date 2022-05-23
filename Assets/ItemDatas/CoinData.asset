@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6687b98a6608d464e92d4ae60553fc52, type: 3}
+  m_Name: CoinData
+  m_EditorClassIdentifier: 
+  icon: {fileID: -912885415, guid: 5ad0eab69246f9148b618d72dcd0e0a7, type: 3}
+  itemName: Gold Coin
+  itemDescription: $ $ $ Gold Coin Description $ $ $
